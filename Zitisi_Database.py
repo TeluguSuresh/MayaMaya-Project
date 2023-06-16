@@ -3,8 +3,6 @@ import pymongo as mng
 import sys
 import pandas as pd
 
-# sourceUrl="mongodb+srv://dbadmin:Chromium2021@mayamaya-prod.wjcd8.mongodb.net/mayamaya"
-
 # Create a MongoClient object
 Client = mng.MongoClient("mongodb://localhost:27017")
 

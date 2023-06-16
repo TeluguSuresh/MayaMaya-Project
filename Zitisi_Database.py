@@ -5,9 +5,6 @@ import pandas as pd
 
 # sourceUrl="mongodb+srv://dbadmin:Chromium2021@mayamaya-prod.wjcd8.mongodb.net/mayamaya"
 
-# sourceUrl = "mongodb+srv://dbadmin:Chromium2021@mayamaya-prod.wjcd8.mongodb.net/mayamaya"
-# sourceUrl = "mongodb+srv://dbadmin:Chromium2021@development-cluster.wjcd8.mongodb.net/miramira"
-
 # Create a MongoClient object
 Client = mng.MongoClient("mongodb://localhost:27017")
 

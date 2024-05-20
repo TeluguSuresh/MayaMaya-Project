@@ -1,20 +1,25 @@
 Overview
 
-
 This project involves extracting data from MongoDB, cleaning and transforming the data using Python with Pandas and MongoDB commands, and then storing the cleaned data in CSV files. Finally, the CSV files are loaded into a PostgreSQL database.
 
 Introduction
+
 In today's data-driven world, the ability to efficiently manage, process, and analyze large volumes of data is crucial for any organization. This project aims to address this need by demonstrating a complete workflow for extracting data from a NoSQL database (MongoDB), cleaning and transforming the data using Python, and then storing the processed data in a relational database (PostgreSQL). This workflow ensures that data can be effectively queried and analyzed using the strengths of both NoSQL and SQL databases.
 
-Objective: The primary objective of this project is to provide a clear and practical guide on how to:
+Objective: 
+
+The primary objective of this project is to provide a clear and practical guide on how to:
 
 Extract data from a MongoDB database.
+
 Clean and transform the extracted data using Python's Pandas library and regular expressions.
 Save the cleaned data into CSV files.
 Load the CSV files into a PostgreSQL database for further analysis.
 By following this guide, users will gain a comprehensive understanding of data extraction, transformation, and loading (ETL) processes. They will learn how to leverage the capabilities of different tools and libraries to ensure data integrity and accessibility, thereby enhancing their data processing workflows.
 
-Scope: The project covers the following key areas:
+Scope: 
+
+The project covers the following key areas:
 
 Setting up the necessary environments and dependencies for MongoDB, Python, and PostgreSQL.
 Writing Python scripts to connect to MongoDB and extract data.
